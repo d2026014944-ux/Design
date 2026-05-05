@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="projects/visual-design/artworks-collection/assets/UNIFEI.png" alt="Capa Portfolio" style="max-width: 100%; border-radius: 12px; margin-bottom: 24px;">
+
 # ✦ Design Portfolio
 
 ### UI/UX · Branding · Visual Design

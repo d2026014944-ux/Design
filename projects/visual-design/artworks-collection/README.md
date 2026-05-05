@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="assets/UNIFEI.png" alt="Capa UNIFEI" style="max-width: 100%; border-radius: 8px; margin-bottom: 20px;">
-</div>
 
 # Coletânea de Artes Visuais e Design
 
