@@ -63,7 +63,7 @@ Cada projeto segue o padrão de **Case Study** com:
 |---|---|---|---|
 | *Em breve* | UI/UX | 🟡 Em andamento | — |
 | *Em breve* | Branding | 🟡 Em andamento | — |
-| *Em breve* | Visual Design | 🟡 Em andamento | — |
+| [Coletânea de Artes Visuais](projects/visual-design/artworks-collection) | Visual Design | 🟢 Concluído | [Ver Case](projects/visual-design/artworks-collection) |
 
 > **Dica de navegação:** cada pasta de projeto contém um `README.md` com o case completo, links para protótipos navegáveis no Figma e os entregáveis finais.
 

@@ -13,7 +13,7 @@ This folder contains visual design projects — graphic design, illustrations, m
 
 | Project | Description | Status |
 |---|---|---|
-| *Your project here* | Brief description | 🟡 Coming soon |
+| [Coletânea de Artes Visuais](artworks-collection) | Coleção de trabalhos diversos de design visual, ilustração e social media | 🟢 Concluído |
 
 ---
 
