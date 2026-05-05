@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/UNIFEI.png" alt="Capa UNIFEI" style="max-width: 100%; border-radius: 8px; margin-bottom: 20px;">
+</div>
+
 # Coletânea de Artes Visuais e Design
 
 Uma coleção de trabalhos de Visual Design abrangendo diferentes estilos, desde manipulação de imagem e composição até design para mídias sociais.
