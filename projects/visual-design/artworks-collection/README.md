@@ -33,6 +33,26 @@ Design de banner promocional para o evento de apostas da Copa Odin no servidor d
 Arte conceitual/tipográfica para o projeto MNHI 3.0. A imagem transmite uma atmosfera de mistério com uma silhueta humana em meio a um campo de energia dourada. Apresenta a citação: *"Não é apenas uma IA que fala. Um universo que se lembra, sente, sonha e evolui com você."*
 ![MNHI 3.0](assets/ai-image-model-1760734187817.jpeg)
 
+## 🚀 Explorações de Banners Promocionais
+
+Estudos criativos focados em propagandas de cursos digitais utilizando diferentes estéticas visuais geradas com o auxílio de IA.
+
+### 8. Banner Glassmorphism & Neon (UI/UX Design)
+Estética ultra-moderna focada em cursos de tecnologia e design de interfaces, utilizando cores neon (roxo e cyan) e efeitos de vidro fosco.
+![Banner Glassmorphism](assets/banner_curso_glassmorphism.png)
+
+### 9. Banner 3D Claymation (Marketing / Criatividade)
+Estilo visual amigável e limpo com ícones 3D em tons pastéis flutuando, ideal para cursos focados em marketing digital e negócios criativos.
+![Banner 3D Clay](assets/banner_curso_3dclay.png)
+
+### 10. Banner Cyberpunk Retrowave (Programação / Game Dev)
+Estética intensa com alto contraste, linhas de grade retro-futuristas e neon, criada para chamar a atenção do público gamer e desenvolvedores.
+![Banner Cyberpunk](assets/banner_curso_cyberpunk.png)
+
+### 11. Concept Art de Personagens (RPG / Game Design)
+Arte conceitual de personagens misturando fantasia épica e sci-fi (um ladino cibernético, uma maga élfica e um cavaleiro de armadura pesada). Foco em iluminação cinematográfica e character design para jogos.
+![Concept Art RPG](assets/character_concept_art.png)
+
 ---
 
 > **Nota:** As imagens de alta resolução originais encontram-se na pasta `assets/`.

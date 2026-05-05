@@ -98,16 +98,7 @@ Design/
     └── presentation-checklist.md← Checklist por projeto
 ```
 
----
 
-## 📬 Contato
-
-Adoraria ouvir seu feedback ou conversar sobre novas oportunidades!
-
-- 📧 **E-mail:** [seu@email.com](mailto:seu@email.com)
-- 💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com)
-- 🎨 **Behance:** [behance.net/seuperfil](https://behance.net)
-- 🖌 **Figma Community:** [figma.com/@seuperfil](https://figma.com)
 
 ---
 
